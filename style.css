@@ -20,8 +20,14 @@
     font-style: italic;
     font-size: xx-large;
 }
+a:hover{
+    color: blue;
+}
 .nav{
     text-align: center;
+}
+#header1{
+    color: blue;
 }
 table{
     text-align: center;
