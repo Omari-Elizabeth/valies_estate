@@ -1,0 +1,22 @@
+*{
+    font-style: Space Grotesk, Oleo Script;
+}
+#topnav{
+    font-size: x-large;
+    border-bottom: 1px solid;
+    padding: 30px;
+    overflow: auto;
+}
+.split-right{
+    float: right;
+    background-color: blue;
+    ;
+    color: antiquewhite;
+    padding: 15px;
+}
+.split-left{
+    font-style: italic;
+}
+.nav{
+    text-align: center;
+}
