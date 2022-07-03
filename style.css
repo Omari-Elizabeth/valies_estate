@@ -1,4 +1,4 @@
-*{
+* {
     font-style: Space Grotesk, Oleo Script;
 }
 #topnav{
@@ -6,6 +6,8 @@
     border-bottom: 1px solid;
     padding: 30px;
     overflow: auto;
+    width: 1200px;
+   
 }
 .split-right{
     float: right;
@@ -16,7 +18,21 @@
 }
 .split-left{
     font-style: italic;
+    font-size: xx-large;
 }
 .nav{
     text-align: center;
+}
+table{
+    text-align: right;
+    border: 0;
+    width: 1200px;
+}
+#image {
+    padding: 20px;
+    float: right;
+}
+.bar{
+    border: 50px;
+    padding: 50px;
 }
